@@ -1,7 +1,8 @@
 import phonenumbers
 from phonenumbers import geocoder
 
-phone_number1 = phonenumbers.parse("+94765457285")
+//add phone number
+phone_number1 = phonenumbers.parse("<ADD PHONE NUMBER HERE>")
 
 print("\nPHONE NUMBERS LOCATOR\n")
 
